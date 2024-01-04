@@ -1,7 +1,5 @@
 # Deck
 
-# ReadableOTP
-
 1. [Sinossi](#Sinossi)
 2. [Dettaglio](#Dettaglio)
 3. [Implementazione](#Implementazione)
